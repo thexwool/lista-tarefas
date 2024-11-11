@@ -179,7 +179,7 @@ const Home = () => {
     return (
         <Container>
             <TitleBox>
-                <GreetingText>{getGreeting()} Todo list of the ALLAN</GreetingText>
+                <GreetingText>{getGreeting()} Todo list of ALLAN</GreetingText>
             </TitleBox>
             <ListBox>
                 {loading ? (
