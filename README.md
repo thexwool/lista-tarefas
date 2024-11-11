@@ -24,7 +24,7 @@ Este é um projeto de gerenciamento de tarefas (Todo-List) desenvolvido em **Rea
    ```bash
    git clone <URL-do-repositorio>
 
-2. **Navegue até o diretório do projeto:**:
+2. **Navegue até o diretório do projeto**:
 
    ```bash
    cd lista-tarefas
